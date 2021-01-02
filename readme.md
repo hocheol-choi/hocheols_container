@@ -6,6 +6,7 @@
 	<li>학술지</li>
 	<li>수학</li>
 	<li>영어 shadowing</li>
+	<li>운동</li>
 	<li>심심할땐 기술 공유 사이트 들어가서 읽기</li>
 </ol>
 
