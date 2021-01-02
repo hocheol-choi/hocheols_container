@@ -13,8 +13,8 @@
 <h3>Winter Vacation Plan</h3>
 <ol>
 	<li>코딩테스트 준비</li>
-	<li>포트폴리오, 토익스피킹</li>
 	<li>html5, css3, javascript(es6) 공부 => <a href="https://poiemaweb.com">PoiemaWeb</a></li>
+	<li>토익스피킹, 포트폴리오</li>
 </ol>
 
 <h3>기술 공유 사이트</h3>
