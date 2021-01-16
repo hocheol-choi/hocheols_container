@@ -5,8 +5,8 @@
 	<li>공부</li>
 	<li>수학</li>
 	<li>운동</li>
-	<li><b>OPTIONAL</b> 영어 shadowing</li>
-	<li><b>OPTIONAL</b> 심심할땐 기술 공유 사이트 들어가서 읽기</li>
+	<li>영어 shadowing <b>(OPTIONAL)</b></li>
+	<li>기술 공유 사이트 방문 후 보기 <b>(OPTIONAL)</b></li>
 </ol>
 
 <h3>Winter Vacation Plan</h3>
