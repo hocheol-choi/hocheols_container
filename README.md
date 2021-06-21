@@ -2,18 +2,18 @@
 
 <h3>매일 할 일</h3>
 <ol>
-	<li>공부</li>
-	<li>수학</li>
-	<li>운동</li>
-	<li>영어 shadowing <b>(OPTIONAL)</b></li>
-	<li>기술 공유 사이트 방문 후 보기 <b>(OPTIONAL)</b></li>
+    <li>코딩테스트 연습</li>
+    <li>1일 1커밋</li>
+    <li>알고리즘 공부</li>
+    <li>운동 <b>(OPTIONAL)</b></li>
+    <li>책 or 기술 공유 사이트 or 학술지 읽기 <b>(OPTIONAL)</b></li>
 </ol>
 
-<h3>Winter Vacation Plan</h3>
+<h3>2021년 하반기 내가 이뤄야 할 GOALS</h3>
 <ol>
-	<li>코딩테스트 준비</li>
-	<li>html5, css3, javascript(es6) 공부 => <a href="https://poiemaweb.com">PoiemaWeb</a></li>
-	<li>토익스피킹, 포트폴리오</li>
+    <li>부스트캠프 최종 합격</li>
+    <li>부스트캠프 챌린지 합격 후 멤버쉽까지 모두 수료</li>
+    <li>취업 성공</li>
 </ol>
 
 <h3>기술 공유 사이트</h3>
