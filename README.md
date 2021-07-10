@@ -4,9 +4,9 @@
 
 <h3>매일 할 일</h3>
 <ol>
-    <li>코딩테스트 연습</li>
     <li>1일 1커밋</li>
-    <li>알고리즘 공부</li>
+    <li>코딩테스트 연습</li>
+    <li>공부</li>
     <li>운동 <b>(OPTIONAL)</b></li>
     <li>책 or 기술 공유 사이트 or 학술지 읽기 <b>(OPTIONAL)</b></li>
 </ol>
